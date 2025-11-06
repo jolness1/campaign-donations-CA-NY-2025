@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.898799,
+          45.82641
+        ]
+      },
+      "properties": {
+        "CITY": "Bozeman",
+        "STATE": "MT",
+        "AMNT": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.391407,
+          47.554109
+        ]
+      },
+      "properties": {
+        "CITY": "Great Falls",
+        "STATE": "MT",
+        "AMNT": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.014338,
+          46.856398
+        ]
+      },
+      "properties": {
+        "CITY": "Missoula",
+        "STATE": "MT",
+        "AMNT": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.18152,
+          48.37246
+        ]
+      },
+      "properties": {
+        "CITY": "Columbia Falls",
+        "STATE": "MT",
+        "AMNT": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.875615,
+          46.996773
+        ]
+      },
+      "properties": {
+        "CITY": "Hobson",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    }
+  ]
+}

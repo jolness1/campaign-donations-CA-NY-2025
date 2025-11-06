@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.369054,
+          45.530664
+        ]
+      },
+      "properties": {
+        "CITY": "Livingston",
+        "STATE": "MT",
+        "AMNT": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.17718,
+          45.77576
+        ]
+      },
+      "properties": {
+        "CITY": "Belgrade",
+        "STATE": "MT",
+        "AMNT": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.014338,
+          46.856398
+        ]
+      },
+      "properties": {
+        "CITY": "Missoula",
+        "STATE": "MT",
+        "AMNT": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.33569,
+          48.41358
+        ]
+      },
+      "properties": {
+        "CITY": "WHITEFISH",
+        "STATE": "MT",
+        "AMNT": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21037,
+          46.527398
+        ]
+      },
+      "properties": {
+        "CITY": "Helena",
+        "STATE": "MT",
+        "AMNT": "366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.665136,
+          45.289586
+        ]
+      },
+      "properties": {
+        "CITY": "Ennis",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.774873,
+          47.180623
+        ]
+      },
+      "properties": {
+        "CITY": "Glendive",
+        "STATE": "MT",
+        "AMNT": "27.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.588144,
+          45.790379
+        ]
+      },
+      "properties": {
+        "CITY": "Billings",
+        "STATE": "MT",
+        "AMNT": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.165774,
+          46.234189
+        ]
+      },
+      "properties": {
+        "CITY": "Hamilton",
+        "STATE": "MT",
+        "AMNT": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.391407,
+          47.554109
+        ]
+      },
+      "properties": {
+        "CITY": "Great Falls",
+        "STATE": "MT",
+        "AMNT": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.064086,
+          47.37245
+        ]
+      },
+      "properties": {
+        "CITY": "Saint Ignatius",
+        "STATE": "MT",
+        "AMNT": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.898799,
+          45.82641
+        ]
+      },
+      "properties": {
+        "CITY": "Bozeman",
+        "STATE": "MT",
+        "AMNT": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.237705,
+          44.763016
+        ]
+      },
+      "properties": {
+        "CITY": "West Yellowstone",
+        "STATE": "MT",
+        "AMNT": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.299241,
+          46.7454
+        ]
+      },
+      "properties": {
+        "CITY": "Lolo",
+        "STATE": "MT",
+        "AMNT": "15"
+      }
+    }
+  ]
+}

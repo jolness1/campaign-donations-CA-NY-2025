@@ -1,0 +1,980 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.19694,
+          45.45548
+        ]
+      },
+      "properties": {
+        "CITY": "SHERIDAN",
+        "STATE": "MT",
+        "AMNT": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.987645,
+          46.811758
+        ]
+      },
+      "properties": {
+        "CITY": "MISSOULA",
+        "STATE": "MT",
+        "AMNT": "8378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.21037,
+          46.527398
+        ]
+      },
+      "properties": {
+        "CITY": "HELENA",
+        "STATE": "MT",
+        "AMNT": "3230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.522372,
+          45.743871
+        ]
+      },
+      "properties": {
+        "CITY": "REED POINT",
+        "STATE": "MT",
+        "AMNT": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.942989,
+          46.141948
+        ]
+      },
+      "properties": {
+        "CITY": "BOULDER",
+        "STATE": "MT",
+        "AMNT": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.369054,
+          45.530664
+        ]
+      },
+      "properties": {
+        "CITY": "LIVINGSTON",
+        "STATE": "MT",
+        "AMNT": "6631.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.230256,
+          47.737279
+        ]
+      },
+      "properties": {
+        "CITY": "POLSON",
+        "STATE": "MT",
+        "AMNT": "515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.898799,
+          45.82641
+        ]
+      },
+      "properties": {
+        "CITY": "BOZEMAN",
+        "STATE": "MT",
+        "AMNT": "9030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.33569,
+          48.41358
+        ]
+      },
+      "properties": {
+        "CITY": "WHITEFISH",
+        "STATE": "MT",
+        "AMNT": "1790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2017,
+          48.06771
+        ]
+      },
+      "properties": {
+        "CITY": "SOMERS",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.323626,
+          45.241262
+        ]
+      },
+      "properties": {
+        "CITY": "RED LODGE",
+        "STATE": "MT",
+        "AMNT": "1175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.194508,
+          45.978288
+        ]
+      },
+      "properties": {
+        "CITY": "BILLINGS",
+        "STATE": "MT",
+        "AMNT": "2235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.189701,
+          48.115522
+        ]
+      },
+      "properties": {
+        "CITY": "POPLAR",
+        "STATE": "MT",
+        "AMNT": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.09009,
+          48.0737
+        ]
+      },
+      "properties": {
+        "CITY": "BIGFORK",
+        "STATE": "MT",
+        "AMNT": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.598765,
+          45.997895
+        ]
+      },
+      "properties": {
+        "CITY": "BUTTE",
+        "STATE": "MT",
+        "AMNT": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.08288,
+          46.50742
+        ]
+      },
+      "properties": {
+        "CITY": "STEVENSVILLE",
+        "STATE": "MT",
+        "AMNT": "1305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.92204,
+          45.62923
+        ]
+      },
+      "properties": {
+        "CITY": "PARK CITY",
+        "STATE": "MT",
+        "AMNT": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.303919,
+          48.202765
+        ]
+      },
+      "properties": {
+        "CITY": "KALISPELL",
+        "STATE": "MT",
+        "AMNT": "1346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.538422,
+          47.794472
+        ]
+      },
+      "properties": {
+        "CITY": "TROUT CREEK",
+        "STATE": "MT",
+        "AMNT": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.623833,
+          46.958253
+        ]
+      },
+      "properties": {
+        "CITY": "LINCOLN",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.774873,
+          47.180623
+        ]
+      },
+      "properties": {
+        "CITY": "GLENDIVE",
+        "STATE": "MT",
+        "AMNT": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.558456,
+          46.989275
+        ]
+      },
+      "properties": {
+        "CITY": "ALBERTON",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.206617,
+          45.657453
+        ]
+      },
+      "properties": {
+        "CITY": "COLUMBUS",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00596,
+          46.4506
+        ]
+      },
+      "properties": {
+        "CITY": "CLANCY",
+        "STATE": "MT",
+        "AMNT": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.64278,
+          48.09168
+        ]
+      },
+      "properties": {
+        "CITY": "WOLF POINT",
+        "STATE": "MT",
+        "AMNT": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.18152,
+          48.37246
+        ]
+      },
+      "properties": {
+        "CITY": "COLUMBIA FALLS",
+        "STATE": "MT",
+        "AMNT": "437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.05378,
+          48.87635
+        ]
+      },
+      "properties": {
+        "CITY": "EUREKA",
+        "STATE": "MT",
+        "AMNT": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.237705,
+          44.763016
+        ]
+      },
+      "properties": {
+        "CITY": "WEST YELLOWSTONE",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.36829,
+          45.28465
+        ]
+      },
+      "properties": {
+        "CITY": "BIG SKY",
+        "STATE": "MT",
+        "AMNT": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.17718,
+          45.77576
+        ]
+      },
+      "properties": {
+        "CITY": "BELGRADE",
+        "STATE": "MT",
+        "AMNT": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.22948,
+          48.01293
+        ]
+      },
+      "properties": {
+        "CITY": "LAKESIDE",
+        "STATE": "MT",
+        "AMNT": "1970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.024625,
+          47.220055
+        ]
+      },
+      "properties": {
+        "CITY": "ARLEE",
+        "STATE": "MT",
+        "AMNT": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.00596,
+          46.4506
+        ]
+      },
+      "properties": {
+        "CITY": "MONTANA CITY",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.04192,
+          46.617296
+        ]
+      },
+      "properties": {
+        "CITY": "FLORENCE",
+        "STATE": "MT",
+        "AMNT": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.398643,
+          47.067886
+        ]
+      },
+      "properties": {
+        "CITY": "HUSON",
+        "STATE": "MT",
+        "AMNT": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.967372,
+          48.510659
+        ]
+      },
+      "properties": {
+        "CITY": "CHESTER",
+        "STATE": "MT",
+        "AMNT": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.2755,
+          47.511219
+        ]
+      },
+      "properties": {
+        "CITY": "GREAT FALLS",
+        "STATE": "MT",
+        "AMNT": "590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.11453,
+          46.31936
+        ]
+      },
+      "properties": {
+        "CITY": "CORVALLIS",
+        "STATE": "MT",
+        "AMNT": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.42824,
+          47.06247
+        ]
+      },
+      "properties": {
+        "CITY": "LEWISTOWN",
+        "STATE": "MT",
+        "AMNT": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.5818,
+          46.62625
+        ]
+      },
+      "properties": {
+        "CITY": "AVON",
+        "STATE": "MT",
+        "AMNT": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.86455,
+          46.87326
+        ]
+      },
+      "properties": {
+        "CITY": "BONNER",
+        "STATE": "MT",
+        "AMNT": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.160159,
+          46.395224
+        ]
+      },
+      "properties": {
+        "CITY": "VICTOR",
+        "STATE": "MT",
+        "AMNT": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92388,
+          46.58799
+        ]
+      },
+      "properties": {
+        "CITY": "EAST HELENA",
+        "STATE": "MT",
+        "AMNT": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.281873,
+          47.854921
+        ]
+      },
+      "properties": {
+        "CITY": "DAYTON",
+        "STATE": "MT",
+        "AMNT": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.86455,
+          46.87326
+        ]
+      },
+      "properties": {
+        "CITY": "GREENOUGH",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.165774,
+          46.234189
+        ]
+      },
+      "properties": {
+        "CITY": "HAMILTON",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.992234,
+          45.494126
+        ]
+      },
+      "properties": {
+        "CITY": "JOLIET",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.158349,
+          45.161913
+        ]
+      },
+      "properties": {
+        "CITY": "BEARCREEK",
+        "STATE": "MT",
+        "AMNT": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.009421,
+          46.15821
+        ]
+      },
+      "properties": {
+        "CITY": "ANACONDA",
+        "STATE": "MT",
+        "AMNT": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.097461,
+          47.035882
+        ]
+      },
+      "properties": {
+        "CITY": "OVANDO",
+        "STATE": "MT",
+        "AMNT": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.178287,
+          47.507347
+        ]
+      },
+      "properties": {
+        "CITY": "RONAN",
+        "STATE": "MT",
+        "AMNT": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.858153,
+          48.076781
+        ]
+      },
+      "properties": {
+        "CITY": "NOXON",
+        "STATE": "MT",
+        "AMNT": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.875624,
+          47.545978
+        ]
+      },
+      "properties": {
+        "CITY": "FORT SHAW",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.634532,
+          45.782744
+        ]
+      },
+      "properties": {
+        "CITY": "WILLOW CREEK",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.67853,
+          48.55417
+        ]
+      },
+      "properties": {
+        "CITY": "HAVRE",
+        "STATE": "MT",
+        "AMNT": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.207191,
+          47.61386
+        ]
+      },
+      "properties": {
+        "CITY": "FAIRFIELD",
+        "STATE": "MT",
+        "AMNT": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.845931,
+          48.182782
+        ]
+      },
+      "properties": {
+        "CITY": "CONRAD",
+        "STATE": "MT",
+        "AMNT": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.595984,
+          45.475459
+        ]
+      },
+      "properties": {
+        "CITY": "NYE",
+        "STATE": "MT",
+        "AMNT": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.212668,
+          47.833775
+        ]
+      },
+      "properties": {
+        "CITY": "FORT PECK",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6303,
+          46.174223
+        ]
+      },
+      "properties": {
+        "CITY": "FORSYTH",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.77153,
+          45.66912
+        ]
+      },
+      "properties": {
+        "CITY": "LAUREL",
+        "STATE": "MT",
+        "AMNT": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.494703,
+          47.258941
+        ]
+      },
+      "properties": {
+        "CITY": "GEYSER",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.636783,
+          45.934423
+        ]
+      },
+      "properties": {
+        "CITY": "COLSTRIP",
+        "STATE": "MT",
+        "AMNT": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.299241,
+          46.7454
+        ]
+      },
+      "properties": {
+        "CITY": "LOLO",
+        "STATE": "MT",
+        "AMNT": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.548481,
+          47.300776
+        ]
+      },
+      "properties": {
+        "CITY": "SEELEY LAKE",
+        "STATE": "MT",
+        "AMNT": "100"
+      }
+    }
+  ]
+}

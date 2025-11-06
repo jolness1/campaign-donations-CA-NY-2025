@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.369054,
+          45.530664
+        ]
+      },
+      "properties": {
+        "CITY": "Livingston",
+        "STATE": "MT",
+        "AMNT": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.919148,
+          46.903865
+        ]
+      },
+      "properties": {
+        "CITY": "Missoula",
+        "STATE": "MT",
+        "AMNT": "250"
+      }
+    }
+  ]
+}
