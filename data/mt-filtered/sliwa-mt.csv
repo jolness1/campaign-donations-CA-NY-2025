@@ -1,0 +1,11 @@
+ELECTION,OFFICECD,RECIPID,CANCLASS,RECIPNAME,COMMITTEE,FILING,SCHEDULE,PAGENO,SEQUENCENO,REFNO,DATE,REFUNDDATE,NAME,C_CODE,STRNO,STRNAME,APARTMENT,BOROUGHCD,CITY,STATE,ZIP,OCCUPATION,EMPNAME,EMPSTRNO,EMPSTRNAME,EMPCITY,EMPSTATE,AMNT,MATCHAMNT,PREVAMNT,PAY_METHOD,INTERMNO,INTERMNAME,INTSTRNO,INTSTRNM,INTAPTNO,INTCITY,INTST,INTZIP,INTEMPNAME,INTEMPSTNO,INTEMPSTNM,INTEMPCITY,INTEMPST,INTOCCUPA,PURPOSECD,EXEMPTCD,ADJTYPECD,RR_IND,SEG_IND,INT_C_CODE
+2025,1,2618,P,"Sliwa, Curtis A",I,14,ABC,,,R0127574,10/17/2025,,"Bellows, Jameson",IND,,,,Z,Bozeman,MT,59715,Student,,,,,,15,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0105788,8/25/2025,,"Dorr, karl",IND,,,,Z,Great Falls,MT,59404,Retired,,,,,,50,0,0,2,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,12,ABC,,,R0083944,7/16/2025,,"Ferrell, Leslie",IND,,,,Z,Missoula,MT,59801,Retired,,,,,,100,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0115915,9/25/2025,,"Forscutt, Richard",IND,,,,Z,Columbia Falls,MT,59912,Retired,,,,,,5,0,0,2,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,14,ABC,,,R0126390,10/15/2025,,"Forscutt, Richard",IND,,,,Z,Columbia Falls,MT,59912,Retired,,,,,,5,0,5,2,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0108126,8/31/2025,,"Hackett, Garry",IND,,,,Z,Great Falls,MT,59401,Retired,,,,,,25,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0117794,9/28/2025,,"Meissner, Shawn",IND,,,,Z,Great Falls,MT,59405,Retired,,,,,,50,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,12,ABC,,,R0085507,7/17/2025,,"russell, James",IND,,,,Z,Great Falls,MT,59404,Retired,,,,,,20,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0104092,8/25/2025,,"Slane, Randy",IND,,,,Z,Missoula,MT,59802,Retired,,,,,,50,0,0,4,,,,,,,,,,,,,,,,,,N,N,
+2025,1,2618,P,"Sliwa, Curtis A",I,13,ABC,,,R0108972,9/2/2025,,"Wigen, Jon T",IND,,,,Z,Hobson,MT,59452,Retired,,,,,,100,0,0,2,,,,,,,,,,,,,,,,,,N,N,
